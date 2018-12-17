@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobComp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_connection">Connection</string>
+    <string name="no_ble">BLE hardware not found</string>
+    <string name="no_bt">Bluetooth access denied</string>
+    <string name="jerk">jerk start</string>
+    <string name="gest">gest start</string>
+</resources>
